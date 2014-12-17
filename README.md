@@ -26,5 +26,5 @@ These videos are also available as a single [continuous playlist from the link h
 </style>
 
 <div class="videoWrapper">
-  <iframe width="100%" height="720" src="//www.youtube.com/embed/79rx62gXW-E?list=PLj148bJp5wiyPX9aFIXE5plmxy2lVWTGN" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" height="720" src="//www.youtube.com/embed/1lRPNqLifvk?list=PLj148bJp5wiyPX9aFIXE5plmxy2lVWTGN" frameborder="0" allowfullscreen></iframe>
 </div>
