@@ -1,9 +1,4 @@
----
-language: none
-tags: backbone, js, javascript, libraries, mv, mv*, frameworks
-type: lecture
-resources: 0
----
+
 
 ## Backbone JS - Views & Templates ~ 1hr 12min
 
